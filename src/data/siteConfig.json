@@ -1,0 +1,53 @@
+{
+  "name": "PARANABUSINESSCOLLECTION",
+  "slug": "paranabusinesscollection.com.br",
+  "description": "Blog de moda e beleza",
+  "url": "https://paranabusinesscollection.com.br",
+  "niche": "Moda e Beleza",
+  "keywords": "Blog de moda e beleza",
+  "email": "contato@paranabusinesscollection.com.br",
+  "palette": "forest",
+  "colors": {
+    "primary": "#16a34a",
+    "accent": "#14532d",
+    "dark": "#052e16"
+  },
+  "headerContrast": "light",
+  "font": "outfit",
+  "fontFamily": "'Outfit', sans-serif",
+  "fontUrl": "https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&display=swap",
+  "components": {
+    "header": "Header-H",
+    "hero": "Hero-B",
+    "features": "Features-F",
+    "about": "About-D",
+    "posts": "Posts-E",
+    "footer": "Footer-D",
+    "sobre": "Sobre-C",
+    "contato": "Contato-G"
+  },
+  "menu": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Blog",
+      "href": "/blog"
+    },
+    {
+      "label": "Sobre",
+      "href": "/sobre"
+    },
+    {
+      "label": "Contato",
+      "href": "/contato"
+    }
+  ],
+  "social": {
+    "instagram": "",
+    "facebook": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

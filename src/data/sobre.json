@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Sobre Nós",
+    "description": "Conheça o PARANABUSINESSCOLLECTION"
+  },
+  "hero": {
+    "title": "Sobre Nós",
+    "subtitle": "O PARANABUSINESSCOLLECTION é um blog dedicado a apaixonados por moda e beleza. Nosso objetivo é fornecer conteúdo de qualidade que inspire e informe, ajudando nossos leitores a expressar sua individualidade através do estilo e cuidados pessoais."
+  },
+  "content": "No PARANABUSINESSCOLLECTION, acreditamos que a moda e a beleza são formas de expressão. Estamos aqui para oferecer dicas, tendências e inspirações que ajudam você a construir sua identidade única.",
+  "mission": "Nossa missão é empoderar nossos leitores a se sentirem confiantes e belos em sua própria pele.",
+  "image": "/images/sobre.jpg",
+  "stats": [
+    {
+      "value": "500+",
+      "label": "Artigos"
+    },
+    {
+      "value": "100k+",
+      "label": "Leitores"
+    },
+    {
+      "value": "5",
+      "label": "Redatores"
+    }
+  ],
+  "team": []
+}

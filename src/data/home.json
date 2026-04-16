@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "title": "PARANABUSINESSCOLLECTION — Bem-vindo ao PARANABUSINESSCOLLECTION",
+    "description": "Seu guia definitivo em moda e beleza."
+  },
+  "hero": {
+    "title": "Bem-vindo ao PARANABUSINESSCOLLECTION",
+    "subtitle": "Seu guia definitivo em moda e beleza.",
+    "btnText": "Explore agora!",
+    "bgImage": "/images/hero.jpg",
+    "btnLink": "/blog"
+  },
+  "features": {
+    "title": "Por que escolher o PARANABUSINESSCOLLECTION?",
+    "items": [
+      {
+        "icon": "✨",
+        "title": "Tendências Atualizadas",
+        "desc": "Fique por dentro das últimas novidades e tendências do mundo da moda e beleza."
+      },
+      {
+        "icon": "🛍️",
+        "title": "Dicas de Estilo",
+        "desc": "Receba dicas práticas para aprimorar seu estilo pessoal e se destacar."
+      },
+      {
+        "icon": "💄",
+        "title": "Beleza & Bem-Estar",
+        "desc": "Explore técnicas e produtos que ajudam a realçar sua beleza natural."
+      },
+      {
+        "icon": "📰",
+        "title": "Conteúdo Exclusivo",
+        "desc": "Acesse guias, tutoriais e entrevistas com especialistas no assunto."
+      }
+    ]
+  },
+  "about": {
+    "title": "Sobre nós",
+    "desc": "O PARANABUSINESSCOLLECTION é um blog dedicado a apaixonados por moda e beleza. Nosso objetivo é fornecer conteúdo de qualidade que inspire e informe, ajudando nossos leitores a expressar sua individualidade através do estilo e cuidados pessoais.",
+    "stats": [
+      {
+        "value": "100+",
+        "label": "Artigos publicados"
+      },
+      {
+        "value": "50k+",
+        "label": "Leitores mensais"
+      },
+      {
+        "value": "10",
+        "label": "Especialistas colaboradores"
+      }
+    ],
+    "image": "/images/about.jpg",
+    "btnText": "Saiba Mais",
+    "btnLink": "/sobre"
+  },
+  "posts": {
+    "title": "Últimos Artigos",
+    "limit": 3,
+    "btnText": "Ver Blog",
+    "btnLink": "/blog"
+  }
+}
